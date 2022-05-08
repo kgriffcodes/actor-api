@@ -1,0 +1,205 @@
+{
+	"meryl streep": {
+		"age": 72,
+		"stageName": "Meryl Streep",
+		"birthName": "Mary Louise Streep",
+		"birthLocation": "Summit, NJ, USA",
+		"almaMaters": ["Vassar College", "Yale University"]
+	},
+	"channing tatum": {
+		"age": 42,
+		"stageName": "Channing Tatum",
+		"birthName": "Channing Matthew Tatum",
+		"birthLocation": "Cullman, AL, USA",
+		"almaMaters": []
+	},
+	"oscar isaac": {
+		"age": 43,
+		"stageName": "Oscar Isaac",
+		"birthName": "Óscar Isaac Hernández",
+		"birthLocation": "Guatemala City, Guatemala",
+		"almaMaters": ["Miami Dade College", "Julliard School"]
+	},
+	"robert downey jr": {
+		"age": 57,
+		"stageName": "Robert Downey Jr.",
+		"birthName": "Robert John Downey Jr.",
+		"birthLocation": "Manhattan, NY, USA",
+		"almaMaters": ["Santa Monica High School"]
+	},
+	"denzel washington": {
+		"age": 67,
+		"stageName": "Denzel Washington",
+		"birthName": "Denzel Hayes Washington Jr.",
+		"birthLocation": "Mount Vernon, NY, USA",
+		"almaMaters": ["Fordham University", "American Conservatory Theater"]
+	},
+	"viola davis": {
+		"age": 56,
+		"stageName": "Viola Davis",
+		"birthName": "Viola Davis",
+		"birthLocation": "St. Matthews, SC, USA",
+		"almaMaters": ["Rhode Island College", "Juilliard School"]
+	},
+	"olivia wilde": {
+		"age": 38,
+		"stageName": "Olivia Wilde",
+		"birthName": "Olivia Jane Cockburn",
+		"birthLocation": "New York City, NY, USA",
+		"almaMaters": ["Gaiety School of Acting"]
+	},
+	"samuel l jackson": {
+		"age": 73,
+		"stageName": "Samuel L. Jackson",
+		"birthName": "Samuel Leroy Jackson",
+		"birthLocation": "Washington, DC, USA",
+		"almaMaters": ["Morehouse College"]
+	},
+	"emma stone": {
+		"age": 33,
+		"stageName": "Emma Stone",
+		"birthName": "Emily Jean Stone",
+		"birthLocation": "Scottsdale, AZ, USA",
+		"almaMaters": []
+	},
+	"brie larson": {
+		"age": 32,
+		"stageName": "Brie Larson",
+		"birthName": "Brianne Sidonie Desaulniers",
+		"birthLocation": "Sacramento, CA, USA",
+		"almaMaters": ["American Conservatory Theater"]
+	},
+	"angela bassett": {
+		"age": 63,
+		"stageName": "Angela Bassett",
+		"birthName": "Angela Evelyn Bassett",
+		"birthLocation": "New York City, NY, USA",
+		"almaMaters": ["Yale University"]
+	},
+	"keanu reeves": {
+		"age": 57,
+		"stageName": "Keanu Reeves",
+		"birthName": "Keanu Charles Reeves",
+		"birthLocation": "Beirut, Lebanon",
+		"almaMaters": []
+	},	
+	"reese witherspoon": {
+		"age": 46,
+		"stageName": "Reese Witherspoon",
+		"birthName": "Laura Jeanne Reese",
+		"birthLocation": "New Orleans, LA, USA",
+		"almaMaters": ["Stanford University"]
+	},
+	"robin williams": {
+		"age": "passed at age 63",
+		"stageName": "Robin Williams",
+		"birthName": "Robin McLaurin Williams",
+		"birthLocation": "Chicago, IL, USA",
+		"almaMaters": ["Claremont McKenna College", "College of Marin", "Juilliard School"]
+	},	
+	"jamie foxx": {
+		"age": 54,
+		"stageName": "Jamie Foxx",
+		"birthName": "Eric Marlon Bishop",
+		"birthLocation": "Terrell, TX, USA",
+		"almaMaters": ["United States International University"]
+	},
+	"woody harrelson": {
+		"age": 60,
+		"stageName": "Woody Harrelson",
+		"birthName": "Woodrow Tracy Harrelson",
+		"birthLocation": "Midland, TX, USA",
+		"almaMaters": []
+	},
+	"natalie portman": {
+		"age": 40,
+		"stageName": "Natalie Portman",
+		"birthName": "Natalie Hershlag",
+		"birthLocation": "Jerusalem, Israel",
+		"almaMaters": ["Harvard University"]
+	},
+	"diane keaton": {
+		"age": 76,
+		"stageName": "Diane Keaton",
+		"birthName": "Diane Hall",
+		"birthLocation": "Los Angeles, CA, USA",
+		"almaMaters": []
+	},
+	"regina hall": {
+		"age": 51,
+		"stageName": "Regina Hall",
+		"birthName": "Regina Lee Hall",
+		"birthLocation": "Washington, DC, USA",
+		"almaMaters": ["Fordham University", "New York University"]
+	},
+	"michael b jordan": {
+		"age": 35,
+		"stageName": "Michael B. Jordan",
+		"birthName": "Michael Bakari Jordan",
+		"birthLocation": "Santa Ana, CA, USA",
+		"almaMaters": []
+	},
+	"idris elba": {
+		"age": 49,
+		"stageName": "Idris Elba",
+		"birthName": "Idrissa Akuna Elba",
+		"birthLocation": "London, England",
+		"almaMaters": []
+	},
+	"laurence fishburne": {
+		"age": 60,
+		"stageName": "Laurence Fishburne",
+		"birthName": "Laurence John Fishburne III",
+		"birthLocation": "Augusta, GA, USA",
+		"almaMaters": []
+	},
+	"kerry washington": {
+		"age": 45,
+		"stageName": "Kerry Washington",
+		"birthName": "Kerry Marisa Washington",
+		"birthLocation": "New York City, NY, USA",
+		"almaMaters": ["George Washington University"]
+	},
+	"danny trejo": {
+		"age": 77,
+		"stageName": "Danny Trejo",
+		"birthName": "Dan Trejo",
+		"birthLocation": "Los Angeles, CA, USA",
+		"almaMaters": []
+	},
+	"ken jeong": {
+		"age": 52,
+		"stageName": "Ken Jeong",
+		"birthName": "Kendrick Kang-Joh Jeong",
+		"birthLocation": "Detroit, MI, USA",
+		"almaMaters": ["Duke University", "University of North Carolina, Chapel Hill"]
+	},
+	"john leguizamo": {
+		"age": 61,
+		"stageName": "John Leguizamo",
+		"birthName": "John Alberto Leguizamo",
+		"birthLocation": "Bogotá, Colombia",
+		"almaMaters": []
+	},
+	"frances mcdormand": {
+		"age": 64,
+		"stageName": "Frances McDormand",
+		"birthName": "Cynthia Ann Smith",
+		"birthLocation": "Gibson City, IL, USA",
+		"almaMaters": ["Bethany College", "Yale University"]
+	},
+	"daniel day lewis": {
+		"age": 65,
+		"stageName": "Daniel Day-Lewis",
+		"birthName": "Daniel Michael Blake Day-Lewis",
+		"birthLocation": "London, England",
+		"almaMaters": ["Bristol Old Vic Theatre School"]
+	},	
+	"unknown": {
+		"age": "unknown",
+		"stageName": "unknown",
+		"birthName": "unknown",
+		"birthLocation": "unknown",
+		"almaMaters": "unknown"
+	}
+}
